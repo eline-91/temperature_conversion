@@ -4,5 +4,8 @@ def celcius_to_fahrenheit(celsius):
 def sum(a,b):
     return a+b
 
+def sum_2(a,b,c):
+    return a + b+ c
+
 #This is the comment
 
