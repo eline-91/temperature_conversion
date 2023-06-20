@@ -6,3 +6,6 @@ def sum(a,b):
 
 #This is the comment
 
+def sum_again(a,b,c):
+    return a+b+c
+#I add the simple sum.
